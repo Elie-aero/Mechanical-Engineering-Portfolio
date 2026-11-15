@@ -1,6 +1,6 @@
 # Fixed-Wing Aerodynamic Analysis
 
-**MachUp / XFOIL study of a conventional aircraft configuration and Clark Y airfoil**
+**MachUp / XFOIL study of a conventional aircraft configuration and Clark Y airfoil (Udemy Course)**
 
 ## Engineering problem
 
@@ -52,6 +52,6 @@ The panel-refinement step is retained because it shows an explicit attempt to im
 
 ## Key engineering takeaways
 
-This study demonstrates basic aerodynamic modelling, panel-quality refinement, viscous XFOIL setup, pressure-distribution interpretation, and quantitative reporting of aerodynamic coefficients.
+This study demonstrates basic aerodynamic modelling, panel-quality refinement, XFOIL setup, pressure-distribution interpretation.
 
 [← Back to portfolio](../../README.md)
