@@ -1,6 +1,6 @@
 # ISA Atmosphere & TAS-to-CAS Conversion
 
-**MATLAB/Simulink aerospace simulation study**
+**MATLAB/Simulink aerospace simulation study (Guided Project)**
 
 ## Engineering problem
 
