@@ -1,6 +1,6 @@
 # Rocket Nozzle Performance & 1D Ascent Simulation
 
-**Python-based implementation of ideal rocket-nozzle performance coupled to a simplified 1D vertical ascent model**
+**Python-based implementation of ideal rocket-nozzle performance coupled to a simplified 1D vertical ascent model (Guided Project)**
 
 This project connects compressible-flow nozzle relations, atmospheric variation, vehicle dynamics, aerodynamic loading, and numerical integration in a single reproducible workflow.
 
