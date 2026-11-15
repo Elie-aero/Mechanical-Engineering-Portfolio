@@ -50,9 +50,9 @@ Conventional fixed-wing analysis using a Clark Y airfoil with panel-quality refi
 
 **Thermal-Fluids** — thermodynamics · heat transfer · fluid mechanics  
 **Numerical Simulation** — MATLAB · Simulink · ANSYS APDL / FEA  
-**Engineering Design** — SolidWorks  
+**Engineering Design** — SolidWorks, Onshape
 **Documentation & Data** — LaTeX · Excel  
-**Currently developing** — Python for engineering simulation · CFD · COMSOL
+**Currently developing** — Python for engineering simulation · Ansys Fluent · COMSOL
 
 ---
 
